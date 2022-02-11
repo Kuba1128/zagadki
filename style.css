@@ -1,0 +1,58 @@
+body
+{
+    background-color: #00FFFF	;
+	padding-bottom:120px;
+}
+
+h1
+{
+	color: black;
+    position: relative;
+    text-align: center;
+    font-family: monospace;
+    font-size: 45px;
+}
+
+h2
+{
+	color: black;
+    position: relative;
+    left: 50px;
+    font-family: monospace;
+    font-size: 35px;
+}
+
+p
+{
+	color: black;
+    position: relative;
+    left: 50px;
+    font-family: monospace;
+    font-size: 15px;
+}
+.button
+{
+    position:relative;
+    left: 50px;
+}
+.div
+{
+	color: black;
+    position: relative;
+    left: 50px;
+    font-family: monospace;
+    font-size: 15px;
+    top: 15px;
+    bottom: 15px;
+}
+input
+{
+	color: black;
+    background-color: #00B7EB	;
+    border-radius: 30px;
+    font-size: 17px;
+    font-family: monospace;
+    padding: 5px 32px;
+    display: inline-block;
+    border: 3px solid #000080	;    
+}
